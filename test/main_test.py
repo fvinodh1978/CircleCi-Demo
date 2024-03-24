@@ -7,7 +7,7 @@ from main import add
 
 def test_add():
     assert add(5, 1)==6
-    print("Add Function Works Correctly")
+    print("Add Test : Add Function Works Correctly")
 
 if __name__ =='__main__':
     test_add()
