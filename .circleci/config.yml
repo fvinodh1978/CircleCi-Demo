@@ -2,9 +2,6 @@ version:  2.1
 
 jobs:
   build:
-    branches:
-      only:
-        - dev
     working_directory: ~circleci-python
     docker:
       - image: "circleci/python:3.12.2"
