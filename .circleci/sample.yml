@@ -1,0 +1,40 @@
+#Number
+version:  2.1
+
+#String
+dev_name:  Vinodh
+
+#Boolean
+is_hero: true
+
+#Single Line String
+project_name: |
+  Franklins 
+  Shopping 
+  Mall
+
+#Multi Line String
+project_desc: > 
+  This Project is a POC Project for  
+  Implementing circleci features to build deploy Appliation code
+
+#Dictionary
+owner:
+  name: Akhila
+  age: 45
+  place: kalluppalam
+
+#Simple Lits1
+directors: [Vinodh, Akhila]
+
+#Simple Lits1
+board:
+  - Vinodh
+  - Akhila
+
+#Complex Lists
+board_of_directors:
+  - name:Vinodh
+    age:45
+  - name:Akhila
+    age:44
