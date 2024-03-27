@@ -2,7 +2,7 @@
 import sys
 
 # adding src to the system path
-sys.path.insert(0, 'C:\\Personal\\Vinodh\\Projects\\DevOps\\Workspace\\CircleCi-Demo\\src')
+sys.path.insert(0, '/home/circleci/circleci-python/src')
 from main import add
 
 def test_add():
