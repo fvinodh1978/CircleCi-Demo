@@ -1,5 +1,5 @@
 def add(a, b):
-    return a+b+42
+    return a+b
 
 def say_hello():
     print("Hi, This is my first CircleCI Demo Program...")
